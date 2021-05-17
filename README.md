@@ -3,7 +3,7 @@
 This project is basic emoji search application with a react.js frontend. The application helps a user search for an emoji and find out its meaning. 
 
 # What the project Looks like
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/engineerDavid/EmoijMeaningReactProject/blob/main/public/emoji.PNG?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
